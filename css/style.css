@@ -428,6 +428,15 @@ body {
   border-bottom: 2px double steelblue;
   font-family: var(--font-24);
   font-weight: bold;
+  border: 1px solid saddlebrown;
+  height: 100px;
+  border-radius: 10px;
+}
+.hexConv-out-box h1{
+  text-align: center;
+  font-family: var(--font-7);
+  font-size: 4em;
+  font-weight: bold;
 }
 
 /* hexToRgbConverter-end */
@@ -477,6 +486,9 @@ body {
   border-bottom: 2px double steelblue;
   font-family: var(--font-25);
   font-weight: bold;
+  border: 1px solid saddlebrown;
+  height: 100px;
+  border-radius: 10px;
 }
 
 /* RgbTohexConverter-end */
@@ -593,3 +605,4 @@ footer .column a:hover {
     font-size: 2em;
   }
 }
+
